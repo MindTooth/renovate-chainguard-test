@@ -1,1 +1,1 @@
-FROM cgr.dev/chainguard/python@sha256:43076811b945c62746d086eaec9cd3833078935d3c3c67650bef09989e277cbd
+FROM cgr.dev/chainguard/python@sha256:0293d126abf34d0df16826592f0cf24a52e576260a8196cd212f0163ffe5ac44
